@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none; /*efeito de contorno ao apertar 'tab' na página*/
+    font-family: "Poppins", sans-serif;
+}
